@@ -17,6 +17,8 @@ public class Pruefungsplanung extends Application
 		this.rootLayout=new BorderPane();
 		this.primaryStage=new Stage();
 		this.fxml=new FXML_Loader();
+		
+		// das ist ein Test
 	}
 	
 	@Override
